@@ -1,14 +1,24 @@
 ## Hi there 👋
 
-
 ### Sobre mim
 Sou apaixonado por tecnologia e educação, sempre em busca de novos desafios e aprendizados.
 
+### Habilidades
+- **Linguagens de Programação**: JavaScript, Python
+- **Frameworks e Bibliotecas**: React, Node.js, Tailwind, Flask
+- **Ferramentas**: Git, Docker, VS Code
+- **Banco de Dados**: PostGreSQL
+- **Outros**: Desenvolvimento Web, Automação, Análise de Dados
+
+### GitHub Estatísticas
+![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipao12&show_icons=true&theme=radical)
+
 ### Entre em Contato
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipe.1212/)
+- **LinkedIn**: [Filipe Mai](https://www.linkedin.com/in/filipe-nunes-799046215/)
+- **Instagram**: [@filipe.mai](https://www.instagram.com/filipe.mai/)
 
-
-Sinta-se à vontade para entrar em contato comigo através do Instagram!
+### Agradecimentos
+Agradeço a todos que me apoiaram e me ajudaram a chegar até aqui.
 
 
 <!--
