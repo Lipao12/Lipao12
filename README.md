@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lipao12&layout=compact&theme=dracula&hide=jupyter%20notebook,html)
 
 ### Sobre mim
 Sou apaixonado por tecnologia e educação, sempre em busca de novos desafios e aprendizados.
