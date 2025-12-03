@@ -1,37 +1,54 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm42MW9qcmhtZXF2ZXo0cmtxcnBoZmk2aW44anNxMG91MHY2dDZnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%" />
 
-### Sobre mim
-Sou apaixonado por tecnologia e educação, sempre em busca de novos desafios e aprendizados.
+# Opa! 👋
 
-### Habilidades
-- **Linguagens de Programação**: JavaScript, Python
-- **Frameworks e Bibliotecas**: React, Node.js, Tailwind, Flask
-- **Ferramentas**: Git, Docker, VS Code
-- **Banco de Dados**: PostGreSQL
-- **Outros**: Desenvolvimento Web, Automação, Análise de Dados
+Sou Filipe, um desenvolvedor full-stack que adora criar coisas do zero — de automações simples a plataformas completas.  
+Curioso, inquieto e sempre tentando deixar o código mais limpo que encontrei (ou pelo menos tentando 👀).
 
-### GitHub Estatísticas
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipao12&show_icons=true&theme=radical)
+---
 
-### Entre em Contato
-- **LinkedIn**: [Filipe Mai](https://www.linkedin.com/in/filipe-nunes-799046215/)
-- **Instagram**: [@filipe.mai](https://www.instagram.com/filipe.mai/)
+## 🚀 O que eu faço
+- Desenvolvimento **full-stack** com foco em produtos reais
+- Criação de apps web modernos com **React + TypeScript**
+- APIs e backends rápidos usando **Node.js**
+- Projetos com **Supabase**, automações e integrações
+- Experimentações com dados e scripts em **Python**
 
-### Agradecimentos
-Agradeço a todos que me apoiaram e me ajudaram a chegar até aqui.
+---
 
+## 🧠 Habilidades
+**Linguagens:** JavaScript, TypeScript, Python  
+**Frontend:** React, Tailwind  
+**Backend:** Node.js, Supabase, Flask  
+**Banco de Dados:** PostgreSQL  
+**Ferramentas:** Git, Docker, VS Code  
+**Interesses:** Web Apps, automação, produtos digitais e IA local
 
-<!--
-**Lipao12/Lipao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧩 Projetos em Destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗓️ Planner
+Um planejador minimalista para organização de rotina, focado em UX simples e direta.
+
+### 🤖 Reconstrução de Posição no Espaço Inteligente  
+Projeto que calcula e visualiza a posição de um robô em um ambiente inteligente usando dados de sensores.
+
+### 🔥 Onvee (em construção)
+Plataforma que estou desenvolvendo agora — full-stack, moderna, e servindo como meu playground de novas ideias.
+
+---
+
+## 📊 Estatísticas do GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=Lipao12&show_icons=true&theme=radical)
+
+---
+
+## 📬 Onde me encontrar
+- **LinkedIn**: https://www.linkedin.com/in/filipe-nunes-799046215/  
+- **Instagram**: https://www.instagram.com/filipe.mai/
+
+---
+
+Obrigado por passar por aqui! 😄  
+Se quiser trocar uma ideia ou colaborar em algo, é só chamar.
